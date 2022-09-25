@@ -20,3 +20,13 @@ I am Nathan Coelho and this repo is a clone of https://github.com/miguelgrinberg
 ![image](https://user-images.githubusercontent.com/53286365/192115292-60ebec22-6449-402c-a7b2-9eb63fa7dd2e.png)
 
 ![image](https://user-images.githubusercontent.com/53286365/192115218-35ba0878-178a-4adc-b680-578205caa665.png)
+
+**Activity 4**
+
+![image](https://user-images.githubusercontent.com/53286365/192167415-643be53a-da69-4489-8419-f27b17bb640a.png)
+
+![image](https://user-images.githubusercontent.com/53286365/192167469-159089aa-75ab-4748-af40-8c6ddd45f4a0.png)
+
+![image](https://user-images.githubusercontent.com/53286365/192167503-d08f1f0f-d1b6-4516-b3e2-d4403200e0d5.png)
+
+![image](https://user-images.githubusercontent.com/53286365/192167574-bfbaeee0-c065-42d1-ae66-5c86b3e0031a.png)
