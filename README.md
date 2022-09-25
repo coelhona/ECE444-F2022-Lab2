@@ -1,6 +1,7 @@
 # ECE444-F2022-Lab2
 
 I am Nathan Coelho and this repo is a clone of https://github.com/miguelgrinberg/flasky 
+(some merge commits because of when I created the local and remote repo)
 
 **Activity 1**
 
